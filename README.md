@@ -23,9 +23,8 @@ This project was built to practice and demonstrate:
 │ └── architecture.png
 ├── lambda/
 │ └── lambda_function.py
-├── redshift/
-│ ├── table_schema.sql
-│ └── sample_query.sql
+├── sql/
+│ ├── ddl_create_tables.sql
 ├── quicksight/
 │ └── dashboard.png
 └── README.md
