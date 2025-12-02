@@ -18,7 +18,7 @@ This project was built to practice and demonstrate:
 ---
 
 ## 📁 Repository Structure
-
+```
 ├── architecture/
 │ └── architecture.png
 ├── lambda/
@@ -29,7 +29,7 @@ This project was built to practice and demonstrate:
 ├── quicksight/
 │ └── dashboard.png
 └── README.md
-
+```
 
 ---
 
